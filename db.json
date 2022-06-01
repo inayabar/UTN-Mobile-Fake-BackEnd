@@ -60,7 +60,7 @@
           "name": "Taylor",
           "surname": "Swift",
           "password": "123456",
-          "profilePicture": "https://assets.teenvogue.com/photos/626abe370979f2c5ace0ab29/16:9/w_2560%2Cc_limit/GettyImages-1352932505.jpg"
+          "profilePicture": "https://assets.teenvogue.com/photos/626abe370979f2c5ace0ab29/16:9/w_2560%2Cc_limit/GettyImages-1352932505.jpg",
           "preferences": [
               {
                   "id": 1,
