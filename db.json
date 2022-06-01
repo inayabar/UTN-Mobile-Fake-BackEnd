@@ -1,0 +1,83 @@
+{
+  "recipes": [
+    {
+        "id": 1,
+        "title": "Omelette relleno",
+        "ingredients":[
+            "Huevo",
+            "Queso cremoso",
+            "Leche",
+            "Champignones",
+            "Tomates cherry"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Omelette relleno",
+        "ingredients":[
+            "Huevo",
+            "Queso cremoso",
+            "Leche",
+            "Champignones",
+            "Tomates cherry"
+        ]
+    }
+  ],
+  "recommendations": [
+    {
+        "id": 1,
+        "title": "Omelette relleno",
+        "ingredients":[
+            "2 Huevos",
+            "Queso cremoso",
+            "Leche",
+            "Champignones",
+            "Tomates cherry"
+        ],
+        "steps": [
+            "Calentar la sarten con un poco de aceite",
+            "Batir los huevos con un chorrito de leche",
+            "Verter la mezcla en la sarten",
+            "Cuando se cocine la base, agregar el queso y los champignones"
+        ],
+        "vegan": false,
+        "vegetarian": true
+    },
+    {
+        "id": 2,
+        "title": "Carne al horno con papas",
+        "ingredients":[
+            "Lomo en fetas",
+            "Papines",
+            "Cebolla"
+        ],
+        "steps": []
+    }
+  ],
+  "users": [
+      {
+          "id": 1,
+          "name": "Taylor",
+          "surname": "Swift",
+          "password": "123456",
+          "profilePicture": "https://assets.teenvogue.com/photos/626abe370979f2c5ace0ab29/16:9/w_2560%2Cc_limit/GettyImages-1352932505.jpg"
+          "preferences": [
+              {
+                  "id": 1,
+                  "name": "Vegetariano",
+                  "selected": false
+              },
+              {
+                  "id": 2,
+                  "name": "Vegano",
+                  "selected": false
+              },
+              {
+                  "id": 3,
+                  "name": "De todo",
+                  "selected": true
+              }
+          ]
+      }
+  ]
+}
